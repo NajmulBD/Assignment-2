@@ -1,0 +1,15 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo img{
+    height: 30px;
+    width: 300px;
+}
+.orange{
+    color: #FA804C;
+}
+
+.blue{
+    color: #363958;
+}
